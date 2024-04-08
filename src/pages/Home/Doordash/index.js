@@ -16,7 +16,6 @@ import { ReactComponent as DoordashLogo } from "../../../assets/svg/doordash.svg
 //     );
 // }
 
-
 // function NextArrow(props) {
 //     const { className, style, onClick } = props;
 //     return (
@@ -27,7 +26,6 @@ import { ReactComponent as DoordashLogo } from "../../../assets/svg/doordash.svg
 //         />
 //     );
 // }
-
 
 const Doordash = () => {
     const settings = {
